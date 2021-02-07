@@ -1,1 +1,1 @@
-web: gunicorn setuop:app
+web: gunicorn setup:app
